@@ -1,11 +1,12 @@
 Top Bun
 
-Tomato (Josh)
+Tomato sauce (Josh)
+Mayo (Josh)
 Pickles (Josh)
 Red Onion (Josh)
 Cheese (Josh)
-Tomato sauce (Josh)
-Mayo (Josh)
-Chicken Pattie (Josh)
+Tomato (Josh)
+Lettuce (added by zac)
+Beef patty (added by zac)
 
 Bottom Bun
